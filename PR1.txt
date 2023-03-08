@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <link rel="stylesheet" href="css/style.css">
+        <title>Meow</title>
+    </head>
+    <body>
+        <div class="Masbox">
+            <div class="header">
+                <h1>Send us a Message</h1>        
+                <div class="line"></div>
+            </div>
+            
+            <div class="middle">
+                <div class="input-form">
+                    <input type="text" placeholder="Enter your name">
+                    <input type="text" placeholder="Enter your email">
+                </div>
+                <div class="input-form">
+                    <input type="text" placeholder="Enter your phone">
+                    <input type="text" placeholder="Enter your website">
+                </div>
+                <div class="input-form">
+                    <textarea class="form-textarea" rows="6" placeholder="Write your message"></textarea>
+                </div>
+                <div class="input-form">
+                        <input type="submit" value="Send Message">
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
